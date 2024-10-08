@@ -1,0 +1,19 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+background-image: url('b5014e80-43f5-4e88-b98b-e70183118f9d.jpg');
+background-color: antiquewhite;
+}
+
+.background
+{
+    width: 100%;
+    height: 100vh;
+    background-image:url(b5014e80-43f5-4e88-b98b-e70183118f9d.jpg);
+    background-repeat; no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(52, 39, 23);
+
+}
